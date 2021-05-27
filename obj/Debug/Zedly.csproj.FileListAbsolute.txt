@@ -1,4 +1,3 @@
-C:\Users\hp\source\repos\Zedly\obj\Debug\Zedly.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\Zedly\bin\Zedly.dll.config
 C:\Users\hp\source\repos\Zedly\bin\Zedly.dll
 C:\Users\hp\source\repos\Zedly\bin\Zedly.pdb
@@ -102,7 +101,11 @@ C:\Users\hp\source\repos\Zedly\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\hp\source\repos\Zedly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\hp\source\repos\Zedly\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\hp\source\repos\Zedly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\hp\source\repos\Zedly\obj\Debug\Zedly.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Zedly\obj\Debug\Zedly.Migrations.InitialModel.resources
+C:\Users\hp\source\repos\Zedly\obj\Debug\Zedly.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Zedly\obj\Debug\Zedly.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\Zedly\obj\Debug\Zedly.csproj.CopyComplete
 C:\Users\hp\source\repos\Zedly\obj\Debug\Zedly.dll
 C:\Users\hp\source\repos\Zedly\obj\Debug\Zedly.pdb
+C:\Users\hp\source\repos\Zedly\obj\Debug\Zedly.Migrations.InitialModel1.resources
+C:\Users\hp\source\repos\Zedly\obj\Debug\Zedly.Migrations.InitialModel2.resources

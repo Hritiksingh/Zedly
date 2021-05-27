@@ -1,9 +1,13 @@
-﻿@model Zedly.Models.Movie
+﻿@model Zedly.ViewModels.RandomMovieViewModel
 @{
     ViewBag.Title = "Random";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <h1>Random</h1>
-<p>@Model.Name</p>
+<p>@Model.movie.Name</p>
+@foreach(var item in Model.customers)
+{
+    <h3>@item.Name</h3>
+}
 
